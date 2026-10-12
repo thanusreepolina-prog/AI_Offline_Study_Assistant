@@ -1,0 +1,5 @@
+pdf_study_assistant_backup.py
+Project_Backup/
+_pycache_/
+*.pyc
+pdf_output/
